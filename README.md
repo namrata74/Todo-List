@@ -18,4 +18,4 @@ Features:-
 Goals:-
 Stay organized and focused on your tasks
 - Increase productivity and efficiency
-- Enjoy a simple and user-friendly task management experience
+- Enjoy a simple and user-friendly task management experience.
