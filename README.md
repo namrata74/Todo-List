@@ -9,13 +9,13 @@ How to Use:
 3. Click on the task to mark it as completed.
 4. Click on the cross (❌) to remove the task.
 
-Features:- 
+Features:-  
 📝 Add and manage your tasks with ease
 - ✅ Mark tasks as completed
 - 🗑️ Remove tasks you no longer need
 - 🎨 Clean and intuitive design
 
-Goals:-
+Goals:- 
 Stay organized and focused on your tasks
 - Increase productivity and efficiency
 - Enjoy a simple and user-friendly task management experience.
